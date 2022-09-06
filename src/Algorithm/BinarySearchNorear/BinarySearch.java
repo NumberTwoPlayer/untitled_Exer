@@ -12,7 +12,6 @@ public class BinarySearch {
         int index = binarySearch(arr, 0, arr.length - 1, 9);
         System.out.println("index = " + index);
     }
-
     /**
      * @param arr     数组
      * @param left    左边的索引

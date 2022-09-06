@@ -54,6 +54,7 @@ public class BinarySreachExer {
                 resIndexlist.add(temp);
                 temp += 1;//temp右移
             }
+
             return resIndexlist;
         }
     }

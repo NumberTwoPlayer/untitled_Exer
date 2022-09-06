@@ -11,6 +11,7 @@ public class SeqSearch {
         int index = seqSearch(arr, 9);
         System.out.println("index = " + index);
     }
+
     public static int seqSearch(int[] arr, int target){
         for(int i = 0; i < arr.length; i++){
             if(arr[i] == target){

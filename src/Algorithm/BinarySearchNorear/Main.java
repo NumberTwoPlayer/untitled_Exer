@@ -12,6 +12,7 @@ public class Main {
         int index = BinartSearchNoRear(arr, 0);
         System.out.println("index = " + index);
     }
+
     static int BinartSearchNoRear(int[] arr, int target) {
         int left = 0;
         int right = arr.length - 1;
