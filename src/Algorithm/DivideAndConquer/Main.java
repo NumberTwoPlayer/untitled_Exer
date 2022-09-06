@@ -9,7 +9,6 @@ public class Main {
     public static void main(String[] args) {
         HanoiTower(5,'A','B','C');
     }
-
     public static void HanoiTower(int num, char a, char b, char c) {
         if (num == 1) {
             System.out.println("第1个盘从:" + a + " --> " + c);
