@@ -1,4 +1,4 @@
-package Algorithm.BinarySearchNorear;
+package Algorithm.BinarySearchNorear.java;
 
 /**
  * @author Email 3394427855@qq.com
