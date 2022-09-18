@@ -11,7 +11,6 @@ public class ViolenceMatch {
         String st2 = "子猫猫子夜";
         int index = violenceMatch(st1, st2);
         System.out.println("index = " + index);
-
     }
     static int violenceMatch(String Str1, String Str2){
         char[] S1 = Str1.toCharArray();
