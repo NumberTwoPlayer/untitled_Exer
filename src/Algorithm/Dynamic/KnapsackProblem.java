@@ -7,9 +7,9 @@ package Algorithm.Dynamic;
  */
 public class KnapsackProblem {
     public static void main(String[] args) {
-        int[] w = {1, 4, 3};
-        int[] val = {1500, 3000, 2000};
-        int m = 4;
+        int[] w = {1, 4, 3};//单个物品的重量
+        int[] val = {1500, 3000, 2000};//单个物品的价值
+        int m = 4;//背包容量
         int n = val.length;
 
         int[][] v = new int[n + 1][m + 1];

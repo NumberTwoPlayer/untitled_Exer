@@ -8,6 +8,9 @@ import java.util.Iterator;
  * @uesr 刘梹晨
  */
 public class Mdin {
+    public static void main(String[] args) {
+
+    }
 
     //遍历集合一边是采用foreach的方式，想要SequenceList也能支持foreach需要实现Iterable接口
     public class SequenceList<T> implements Iterable {
@@ -193,6 +196,3 @@ public class Mdin {
         }
     }
 }
-
-
-

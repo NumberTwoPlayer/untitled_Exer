@@ -1,7 +1,4 @@
 package Algorithm.BinarySearchNorear.Exer;
-
-import java.util.Scanner;
-
 /**
  * @author Email 3394427855@qq.com
  * @version 2022/10/10 11:03
@@ -9,12 +6,30 @@ import java.util.Scanner;
  */
 public class Mein {
     public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
-        System.out.println();
-        double pi = sc.nextDouble();
-        double redius = 1.5;
-        double area = pi * redius * redius;
-        System.out.println(redius);
-        System.out.println(area);
+        Season sc = Season.ExerSon;
+        System.out.println(sc);//可重写
     }
+
+}
+enum Season {
+    ExerSon("凌晨","极静"),
+    FutureSon("极夜","安静"),
+    ExerSea("子夜","冷静"),
+    FutureSea("午夜","寒静");
+
+    private final String SeasonName;
+    private final String SeasonExer;
+
+    private Season(String SeasonName, String SeasonExer) {
+        this.SeasonName = SeasonName;
+        this.SeasonExer = SeasonExer;
+    }
+
+    public String getSeasonName(){
+        return SeasonName;
+    }
+    public String getSeasonExer(){
+        return SeasonExer;
+    }
+
 }
