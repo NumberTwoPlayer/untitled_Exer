@@ -43,11 +43,11 @@ public class Mylinearlist {
      * 插入
      * 根据给定的位序i和值newValue插入到表中
      *
-     * @param newvalue 需要插入的值
+     * @param newValue 需要插入的值
      * @param i         给定的位序（不是下标）
      * @throws Exception    抛出异常
      */
-    private void insert(int newvalue, int i) throws Exception {
+    private void insert(int newValue, int i) throws Exception {
         //首先判断表空间是否已满
         if (last == MAXSIZE - 1) {
             throw new Exception("表满");
@@ -61,7 +61,7 @@ public class Mylinearlist {
             list[j + 1] = list[j];
         }
         //将值插入到表中
-        list[i - 1] = newvalue;
+        list[i - 1] = newValue;
         //修改last，使其仍然指向最后一个位置
         last++;
     }
@@ -94,12 +94,42 @@ public class Mylinearlist {
      */
     private void print(){
         for (int i = 0; i <= last; i++) {
-            System.out.print(list[i] + "");
+            System.out.print(list[i] + " ");
         }
         System.out.println();
     }
 
     public static void main(String[] args) throws Exception {
+        Mylinearlist my = new Mylinearlist(10);
+
+        System.out.println(my.last);
+        my.insert(11,1);
+        my.insert(22,2);
+        my.insert(33,3);
+        my.insert(44,4);
+        my.insert(55,5);
+        my.insert(55,6);
+        my.insert(55,7);
+        my.insert(55,8);
+        my.insert(55,9);
+        my.insert(55,10);
+//        my.insert(55,11);
+        System.out.println(my.last);
+        my.print();
+        my.delete(1);
+        my.delete(1);
+        my.delete(1);
+        my.delete(1);
+        my.delete(1);
+        my.delete(1);
+        my.delete(1);
+        my.delete(1);
+        my.delete(1);
+        my.delete(1);
+        System.out.println(my.last);
+        my.print();
+
+
 
     }
 }
