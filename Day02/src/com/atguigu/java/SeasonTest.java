@@ -6,4 +6,16 @@ package com.atguigu.java;
  * @uesr 刘梹晨
  */
 public class SeasonTest {
+    public static void main(String[] args) {
+
+    }
+    public static class Season{
+        private final String SeasonName;
+        private final String SeasonDesc;
+        private Season(String SeasonName, String SeasonDesc){
+            this.SeasonName = SeasonName;
+            this.SeasonDesc = SeasonDesc;
+        }
+        public final static Season SPRING = new Season("1", " 2");
+    }
 }

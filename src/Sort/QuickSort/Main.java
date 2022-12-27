@@ -35,9 +35,6 @@ public class Main {
     }
 
     static void swap(int[] arr, int i ,int j){
-//        arr[i] = arr[i] ^ arr[j];
-//        arr[j] = arr[i] ^ arr[j];
-//        arr[i] = arr[i] ^ arr[j];
         int test = arr[i];
         arr[i] = arr[j];
         arr[j] = test;

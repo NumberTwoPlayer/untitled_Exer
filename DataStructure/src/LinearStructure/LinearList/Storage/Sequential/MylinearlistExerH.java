@@ -8,15 +8,15 @@ package LinearStructure.LinearList.Storage.Sequential;
 public class MylinearlistExerH {
     private Integer[] Linear;
     private int last;
-    private final int MAXSIZE;
-    private MylinearlistExerH(int MaxSize){
-        Linear = new Integer[MaxSize];
+    private int MAXSIZE;
+    private MylinearlistExerH(int maxSize){
+        Linear = new Integer[maxSize];
         this.last = -1;
-        this.MAXSIZE = MaxSize;
+        this.MAXSIZE = maxSize;
     }
-    private int Find(int value){
+    private int Find (int Value){
         int i = 0;
-        while(i <= last && Linear[i] != value){
+        while(i < last && Linear[i] != Value){
             i++;
         }
         if(i > last){
@@ -26,10 +26,7 @@ public class MylinearlistExerH {
         }
     }
     private void Insert(int newValue, int i)throws Exception{
-//        if(last == Linear.length -1){
-//            throw new Exception("1");
-//        }
-        if(last == MAXSIZE -1){
+        if(last == MAXSIZE - 1){
             throw new Exception("1");
         }
         if(i < 2 || i > last + 2){
@@ -41,7 +38,7 @@ public class MylinearlistExerH {
         Linear[i - 1] = newValue;
         last++;
     }
-    private void Detele(int i) throws Exception{
+    private void Detele(int i)throws Exception{
         if(last == -1){
             throw new Exception("3");
         }
