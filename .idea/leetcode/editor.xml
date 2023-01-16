@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="LeetcodeEditor">
+    <option name="projectConfig">
+      <map>
+        <entry key="$PROJECT_DIR$/../../Users/刘梹晨/AppData/Local/Temp/leetcode/editor/cn/P_1741_FindTotalTimeSpentByEachEmployee .java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../../Users/刘梹晨/AppData/Local/Temp/leetcode/editor/cn/doc/content/P_1741_FindTotalTimeSpentByEachEmployee .md" />
+              <option name="frontendQuestionId" value="leetcode.cn1741" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../../Users/刘梹晨/AppData/Local/Temp/leetcode/editor/cn/P_1741_FindTotalTimeSpentByEachEmployee .java" />
+              <option name="titleSlug" value="find-total-time-spent-by-each-employee" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Users/刘梹晨/AppData/Local/Temp/leetcode/editor/cn/P_1_TwoSum .java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../../Users/刘梹晨/AppData/Local/Temp/leetcode/editor/cn/doc/content/P_1_TwoSum .md" />
+              <option name="frontendQuestionId" value="leetcode.cn1" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../../Users/刘梹晨/AppData/Local/Temp/leetcode/editor/cn/P_1_TwoSum .java" />
+              <option name="titleSlug" value="two-sum" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Users/刘梹晨/AppData/Local/Temp/leetcode/editor/cn/P_2_AddTwoNumbers .java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../../Users/刘梹晨/AppData/Local/Temp/leetcode/editor/cn/doc/content/P_2_AddTwoNumbers .md" />
+              <option name="frontendQuestionId" value="leetcode.cn2" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../../Users/刘梹晨/AppData/Local/Temp/leetcode/editor/cn/P_2_AddTwoNumbers .java" />
+              <option name="titleSlug" value="add-two-numbers" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Users/刘梹晨/AppData/Local/Temp/leetcode/editor/cn/P_35_SearchInsertPosition .java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../../Users/刘梹晨/AppData/Local/Temp/leetcode/editor/cn/doc/content/P_35_SearchInsertPosition .md" />
+              <option name="frontendQuestionId" value="leetcode.cn35" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../../Users/刘梹晨/AppData/Local/Temp/leetcode/editor/cn/P_35_SearchInsertPosition .java" />
+              <option name="titleSlug" value="search-insert-position" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Users/刘梹晨/AppData/Local/Temp/leetcode/editor/cn/P_704_BinarySearch .java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../../Users/刘梹晨/AppData/Local/Temp/leetcode/editor/cn/doc/content/P_704_BinarySearch .md" />
+              <option name="frontendQuestionId" value="leetcode.cn704" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../../Users/刘梹晨/AppData/Local/Temp/leetcode/editor/cn/P_704_BinarySearch .java" />
+              <option name="titleSlug" value="binary-search" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Users/刘梹晨/AppData/Local/Temp/leetcode/editor/cn/P_785_IsGraphBipartite .java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../../Users/刘梹晨/AppData/Local/Temp/leetcode/editor/cn/doc/content/P_785_IsGraphBipartite .md" />
+              <option name="frontendQuestionId" value="leetcode.cn785" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../../Users/刘梹晨/AppData/Local/Temp/leetcode/editor/cn/P_785_IsGraphBipartite .java" />
+              <option name="titleSlug" value="is-graph-bipartite" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Users/刘梹晨/AppData/Local/Temp/leetcode/editor/cn/P_795_NumberOfSubarraysWithBoundedMaximum .java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../../Users/刘梹晨/AppData/Local/Temp/leetcode/editor/cn/doc/content/P_795_NumberOfSubarraysWithBoundedMaximum .md" />
+              <option name="frontendQuestionId" value="leetcode.cn795" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../../Users/刘梹晨/AppData/Local/Temp/leetcode/editor/cn/P_795_NumberOfSubarraysWithBoundedMaximum .java" />
+              <option name="titleSlug" value="number-of-subarrays-with-bounded-maximum" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Users/刘梹晨/AppData/Local/Temp/leetcode/editor/cn/P_890_FindAndReplacePattern .java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../../Users/刘梹晨/AppData/Local/Temp/leetcode/editor/cn/doc/content/P_890_FindAndReplacePattern .md" />
+              <option name="frontendQuestionId" value="leetcode.cn890" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../../Users/刘梹晨/AppData/Local/Temp/leetcode/editor/cn/P_890_FindAndReplacePattern .java" />
+              <option name="titleSlug" value="find-and-replace-pattern" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Users/刘梹晨/AppData/Local/Temp/leetcode/editor/cn/P_94_BinaryTreeInorderTraversal .java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../../Users/刘梹晨/AppData/Local/Temp/leetcode/editor/cn/doc/content/P_94_BinaryTreeInorderTraversal .md" />
+              <option name="frontendQuestionId" value="leetcode.cn94" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../../Users/刘梹晨/AppData/Local/Temp/leetcode/editor/cn/P_94_BinaryTreeInorderTraversal .java" />
+              <option name="titleSlug" value="binary-tree-inorder-traversal" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Users/刘梹晨/AppData/Local/Temp/leetcode/editor/cn/P_剑指 Offer 04_ErWeiShuZuZhongDeChaZhaoLcof .java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../../Users/刘梹晨/AppData/Local/Temp/leetcode/editor/cn/doc/content/P_剑指 Offer 04_ErWeiShuZuZhongDeChaZhaoLcof .md" />
+              <option name="frontendQuestionId" value="leetcode.cn剑指 Offer 04" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../../Users/刘梹晨/AppData/Local/Temp/leetcode/editor/cn/P_剑指 Offer 04_ErWeiShuZuZhongDeChaZhaoLcof .java" />
+              <option name="titleSlug" value="er-wei-shu-zu-zhong-de-cha-zhao-lcof" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Users/刘梹晨/AppData/Local/Temp/leetcode/editor/cn/P_剑指 Offer 32 - II_CongShangDaoXiaDaYinErChaShuIiLcof .java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../../Users/刘梹晨/AppData/Local/Temp/leetcode/editor/cn/doc/content/P_剑指 Offer 32 - II_CongShangDaoXiaDaYinErChaShuIiLcof .md" />
+              <option name="frontendQuestionId" value="leetcode.cn剑指 Offer 32 - II" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../../Users/刘梹晨/AppData/Local/Temp/leetcode/editor/cn/P_剑指 Offer 32 - II_CongShangDaoXiaDaYinErChaShuIiLcof .java" />
+              <option name="titleSlug" value="cong-shang-dao-xia-da-yin-er-cha-shu-ii-lcof" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Users/刘梹晨/AppData/Local/Temp/leetcode/editor/cn/P_剑指 Offer 53 - I_ZaiPaiXuShuZuZhongChaZhaoShuZiLcof .java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../../Users/刘梹晨/AppData/Local/Temp/leetcode/editor/cn/doc/content/P_剑指 Offer 53 - I_ZaiPaiXuShuZuZhongChaZhaoShuZiLcof .md" />
+              <option name="frontendQuestionId" value="leetcode.cn剑指 Offer 53 - I" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../../Users/刘梹晨/AppData/Local/Temp/leetcode/editor/cn/P_剑指 Offer 53 - I_ZaiPaiXuShuZuZhongChaZhaoShuZiLcof .java" />
+              <option name="titleSlug" value="zai-pai-xu-shu-zu-zhong-cha-zhao-shu-zi-lcof" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Users/刘梹晨/AppData/Local/Temp/leetcode/editor/cn/P_剑指 Offer II 002_JFETK5 .java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../../Users/刘梹晨/AppData/Local/Temp/leetcode/editor/cn/doc/content/P_剑指 Offer II 002_JFETK5 .md" />
+              <option name="frontendQuestionId" value="leetcode.cn剑指 Offer II 002" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../../Users/刘梹晨/AppData/Local/Temp/leetcode/editor/cn/P_剑指 Offer II 002_JFETK5 .java" />
+              <option name="titleSlug" value="JFETK5" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Users/刘梹晨/AppData/Local/Temp/leetcode/editor/cn/P_剑指 Offer II 056_OpLdQZ .java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../../Users/刘梹晨/AppData/Local/Temp/leetcode/editor/cn/doc/content/P_剑指 Offer II 056_OpLdQZ .md" />
+              <option name="frontendQuestionId" value="leetcode.cn剑指 Offer II 056" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../../Users/刘梹晨/AppData/Local/Temp/leetcode/editor/cn/P_剑指 Offer II 056_OpLdQZ .java" />
+              <option name="titleSlug" value="opLdQZ" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Users/刘梹晨/AppData/Local/Temp/leetcode/editor/cn/P_剑指 Offer II 068_) .java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../../Users/刘梹晨/AppData/Local/Temp/leetcode/editor/cn/doc/content/P_剑指 Offer II 068_N6YdxV .md" />
+              <option name="frontendQuestionId" value="leetcode.cn剑指 Offer II 068" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../../Users/刘梹晨/AppData/Local/Temp/leetcode/editor/cn/P_剑指 Offer II 068_N6YdxV .java" />
+              <option name="titleSlug" value="N6YdxV" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Users/刘梹晨/AppData/Local/Temp/leetcode/editor/cn/P_剑指 Offer II 068_N6YdxV .java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../../Users/刘梹晨/AppData/Local/Temp/leetcode/editor/cn/doc/content/P_剑指 Offer II 068_N6YdxV .md" />
+              <option name="frontendQuestionId" value="leetcode.cn剑指 Offer II 068" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../../Users/刘梹晨/AppData/Local/Temp/leetcode/editor/cn/P_剑指 Offer II 068_N6YdxV .java" />
+              <option name="titleSlug" value="N6YdxV" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Users/刘梹晨/AppData/Local/Temp/leetcode/editor/cn/P_面试题 10.05_SparseArraySearchLcci .java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../../Users/刘梹晨/AppData/Local/Temp/leetcode/editor/cn/doc/content/P_面试题 10.05_SparseArraySearchLcci .md" />
+              <option name="frontendQuestionId" value="leetcode.cn面试题 10.05" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../../Users/刘梹晨/AppData/Local/Temp/leetcode/editor/cn/P_面试题 10.05_SparseArraySearchLcci .java" />
+              <option name="titleSlug" value="sparse-array-search-lcci" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Users/刘梹晨/AppData/Local/Temp/leetcode/editor/cn/P_面试题 10.09_SortedMatrixSearchLcci .java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../../Users/刘梹晨/AppData/Local/Temp/leetcode/editor/cn/doc/content/P_面试题 10.09_SortedMatrixSearchLcci .md" />
+              <option name="frontendQuestionId" value="leetcode.cn面试题 10.09" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../../Users/刘梹晨/AppData/Local/Temp/leetcode/editor/cn/P_面试题 10.09_SortedMatrixSearchLcci .java" />
+              <option name="titleSlug" value="sorted-matrix-search-lcci" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Users/刘梹晨/AppData/Local/Temp/leetcode/editor/cn/P_面试题 10.10_RankFromStreamLcci .java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../../Users/刘梹晨/AppData/Local/Temp/leetcode/editor/cn/doc/content/P_面试题 10.10_RankFromStreamLcci .md" />
+              <option name="frontendQuestionId" value="leetcode.cn面试题 10.10" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../../Users/刘梹晨/AppData/Local/Temp/leetcode/editor/cn/P_面试题 10.10_RankFromStreamLcci .java" />
+              <option name="titleSlug" value="rank-from-stream-lcci" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Users/刘梹晨/AppData/Local/Temp/leetcode/editor/cn/P_面试题 16.04_TicTacToeLcci .java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../../Users/刘梹晨/AppData/Local/Temp/leetcode/editor/cn/doc/content/P_面试题 16.04_TicTacToeLcci .md" />
+              <option name="frontendQuestionId" value="leetcode.cn面试题 16.04" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../../Users/刘梹晨/AppData/Local/Temp/leetcode/editor/cn/P_面试题 16.04_TicTacToeLcci .java" />
+              <option name="titleSlug" value="tic-tac-toe-lcci" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Users/刘梹晨/AppData/Local/Temp/leetcode/editor/cn/P_面试题 16.09_OperationsLcci .java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../../Users/刘梹晨/AppData/Local/Temp/leetcode/editor/cn/doc/content/P_面试题 16.09_OperationsLcci .md" />
+              <option name="frontendQuestionId" value="leetcode.cn面试题 16.09" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../../Users/刘梹晨/AppData/Local/Temp/leetcode/editor/cn/P_面试题 16.09_OperationsLcci .java" />
+              <option name="titleSlug" value="operations-lcci" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Users/刘梹晨/AppData/Local/Temp/leetcode/editor/cn/P_面试题 17.05_FindLongestSubarrayLcci .java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../../Users/刘梹晨/AppData/Local/Temp/leetcode/editor/cn/doc/content/P_面试题 17.05_FindLongestSubarrayLcci .md" />
+              <option name="frontendQuestionId" value="leetcode.cn面试题 17.05" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../../Users/刘梹晨/AppData/Local/Temp/leetcode/editor/cn/P_面试题 17.05_FindLongestSubarrayLcci .java" />
+              <option name="titleSlug" value="find-longest-subarray-lcci" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

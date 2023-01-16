@@ -87,9 +87,9 @@ public class Soted {
     }
 
     public static void main(String[] args) {
-        int testTims = 100000;
-        int maxSize = 1000;
-        int maxNum = 1000;
+        int testTims = 10000000;
+        int maxSize = 5000;
+        int maxNum = 5000;
         boolean euqals = true;
         for (int i = 0; i < testTims; i++) {
             int[] arr1 = generateRandomArray(maxSize, maxNum);

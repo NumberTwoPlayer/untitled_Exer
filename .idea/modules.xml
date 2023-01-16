@@ -5,6 +5,8 @@
       <module fileurl="file://$PROJECT_DIR$/DataStructure/DataStructure.iml" filepath="$PROJECT_DIR$/DataStructure/DataStructure.iml" />
       <module fileurl="file://$PROJECT_DIR$/Day02/Day02.iml" filepath="$PROJECT_DIR$/Day02/Day02.iml" />
       <module fileurl="file://$PROJECT_DIR$/Day03/Day03.iml" filepath="$PROJECT_DIR$/Day03/Day03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day07/LandOver.iml" filepath="$PROJECT_DIR$/Day07/LandOver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day08/ThreadOver.iml" filepath="$PROJECT_DIR$/Day08/ThreadOver.iml" />
       <module fileurl="file://$PROJECT_DIR$/untitled_Exer.iml" filepath="$PROJECT_DIR$/untitled_Exer.iml" />
     </modules>
   </component>
