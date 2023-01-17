@@ -1,4 +1,4 @@
-package ThreadExer;
+package Thread.Exer;
 
 /**
  * @author Email 3394427855@qq.com

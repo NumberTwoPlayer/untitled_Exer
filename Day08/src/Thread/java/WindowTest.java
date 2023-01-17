@@ -1,7 +1,8 @@
-package Thread;
+package Thread.java;
 
 /**
  * 创建三个窗口买票，总票数为100张
+ * 存在线程安全问题
  *
  * @author Email 3394427855@qq.com
  * @version 2023/1/16 17:20
@@ -22,11 +23,13 @@ class Window extends Thread{
         }
     }
 }
-public class WindownTest {
+public class WindowTest {
     public static void main(String[] args) {
+
         Window t1 = new Window();
         Window t2 = new Window();
         Window t3 = new Window();
+
 
         t1.setName("窗口一");
         t2.setName("窗口二");
@@ -36,5 +39,4 @@ public class WindownTest {
         t2.start();
         t3.start();
     }
-
 }

@@ -1,4 +1,4 @@
-package Thread;
+package Thread.java;
 
 /**
  * @author Email 3394427855@qq.com
